@@ -1,0 +1,14 @@
+/home/luca/ubuntu-touch-app/ING-BE-Mobile/build/all/app/CMakeFiles/ing.desktop.dir
+/home/luca/ubuntu-touch-app/ING-BE-Mobile/build/all/app/CMakeFiles/edit_cache.dir
+/home/luca/ubuntu-touch-app/ING-BE-Mobile/build/all/app/CMakeFiles/rebuild_cache.dir
+/home/luca/ubuntu-touch-app/ING-BE-Mobile/build/all/app/CMakeFiles/list_install_components.dir
+/home/luca/ubuntu-touch-app/ING-BE-Mobile/build/all/app/CMakeFiles/install.dir
+/home/luca/ubuntu-touch-app/ING-BE-Mobile/build/all/app/CMakeFiles/install/local.dir
+/home/luca/ubuntu-touch-app/ING-BE-Mobile/build/all/app/CMakeFiles/install/strip.dir
+/home/luca/ubuntu-touch-app/ING-BE-Mobile/build/all/app/po/CMakeFiles/ing.pot.dir
+/home/luca/ubuntu-touch-app/ING-BE-Mobile/build/all/app/po/CMakeFiles/edit_cache.dir
+/home/luca/ubuntu-touch-app/ING-BE-Mobile/build/all/app/po/CMakeFiles/rebuild_cache.dir
+/home/luca/ubuntu-touch-app/ING-BE-Mobile/build/all/app/po/CMakeFiles/list_install_components.dir
+/home/luca/ubuntu-touch-app/ING-BE-Mobile/build/all/app/po/CMakeFiles/install.dir
+/home/luca/ubuntu-touch-app/ING-BE-Mobile/build/all/app/po/CMakeFiles/install/local.dir
+/home/luca/ubuntu-touch-app/ING-BE-Mobile/build/all/app/po/CMakeFiles/install/strip.dir

@@ -1,0 +1,15 @@
+{
+    "name": "ing.belgium.bank",
+    "description": "Belgium ING Bank Webapp For Ubuntu Touch",
+    "architecture": "all", 
+    "title": "",       
+    "hooks": {
+        "ing": {
+            "apparmor": "ing.apparmor",
+            "desktop": "ing.desktop"
+        }
+    },
+    "version": "1.0",    
+    "maintainer": "Lucstay11 <tues.banni@gmail.com>",
+    "framework" : ""  
+}
