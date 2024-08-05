@@ -9,8 +9,6 @@
 //qml/MimeTypeMapper.js
 //qml/WebProcessMonitor.qml
 //qml/OpenDialog.qml
-//qml/js/argenta.js
-//qml/js/inject.js
 //qml/components/settingspage/SpinRange.qml
 //qml/MediaAccessDialog.qml
 //qml/PopupWindowController.qml

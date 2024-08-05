@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Argenta Mobile
-Exec=qmlscene %u qml/Main.qml
-Icon=assets/icon.png
-Terminal=false
-Type=Application
-X-Ubuntu-Touch=true
-X-Ubuntu-Splash-Color=#ffffff
-X-Ubuntu-Default-Department-ID=communication

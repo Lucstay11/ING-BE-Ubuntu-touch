@@ -22,7 +22,7 @@ MainView {
         webview.zoomFactor = appSettings.argentaZoomFactor
     }    
 
-    applicationName: "argenta.bank"
+    applicationName: "ing.belgium.bank"
     automaticOrientation: true
     anchorToKeyboard: true
     focus: true
@@ -97,20 +97,6 @@ MainView {
                        right: parent.right
                        bottom: parent.bottom
             }
-
-                userScripts: [
-                    WebEngineScript {
-                       injectionPoint: WebEngineScript.DocumentCreation
-                       sourceUrl: Qt.resolvedUrl('js/inject.js')
-                       worldId: WebEngineScript.MainWorld
-            },
-                    WebEngineScript {
-                       injectionPoint: WebEngineScript.DocumentCreation
-                       sourceUrl: Qt.resolvedUrl('js/argenta.js')
-                       worldId: WebEngineScript.MainWorld
-            }
-
-         ]
 
                 zoomFactor: 2.20
                 url: "https://ebanking.ing.be/login/"

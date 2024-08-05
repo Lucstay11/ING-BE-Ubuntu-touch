@@ -240,15 +240,6 @@ Qt5Qml_DIR:PATH=/usr/lib/x86_64-linux-gnu/cmake/Qt5Qml
 Qt5Quick_DIR:PATH=/usr/lib/x86_64-linux-gnu/cmake/Qt5Quick
 
 //Value Computed by CMake
-argenta.bank_BINARY_DIR:STATIC=/home/luca/ubuntu-touch-app/ING-BE-Mobile/build/all/app
-
-//Value Computed by CMake
-argenta.bank_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-argenta.bank_SOURCE_DIR:STATIC=/home/luca/ubuntu-touch-app/ING-BE-Mobile
-
-//Value Computed by CMake
 ing.belgium.bank_BINARY_DIR:STATIC=/home/luca/ubuntu-touch-app/ING-BE-Mobile/build/all/app
 
 //Value Computed by CMake

@@ -2,7 +2,7 @@
     "name": "ing.belgium.bank",
     "description": "Belgium ING Bank Webapp For Ubuntu Touch",
     "architecture": "all",
-    "title": "",
+    "title": "ING",
     "hooks": {
         "ing": {
             "apparmor": "ing.apparmor",
